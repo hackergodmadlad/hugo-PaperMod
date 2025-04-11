@@ -1,5 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: PaperMod Discussions
-    url: https://github.com/adityatelange/hugo-PaperMod/discussions
+  - name: Demo for Hugo
+    url: "/"
     about: Please ask and answer questions/doubts here, DO NOT open an issue for questions.
+    theme: PaperMod
